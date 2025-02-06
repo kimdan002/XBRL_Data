@@ -1,2 +1,2 @@
 # XBRL_Data
-XBRL DB download
+SEC - 10k download
